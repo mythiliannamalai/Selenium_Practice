@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Selenium.Selenium.Web_Table"/>
+      <class name="Selenium.Selenium.Auto_Suggestion_ListBox"/>
+      <class name="Selenium.Selenium.Action_Class_Methods"/>
+      <class name="Selenium.Selenium.TestNG_Types"/>
+      <class name="Selenium.Selenium.Gmail_CreateAccount"/>
+      <class name="Selenium.Selenium.JavaScriptExecutor"/>
+      <class name="Selenium.Selenium.Frames"/>
+      <class name="Selenium.Selenium.Facebook_Reg_Login"/>
+      <class name="Selenium.Selenium.JavaScript_Pop_Up"/>
+      <class name="Selenium.Selenium.File_Uplode_Pop_Up"/>
+      <class name="Selenium.Selenium.Hidden_Division_Pop_Up"/>
+      <class name="Selenium.Selenium.Select_Class"/>
+      <class name="Selenium.Selenium.Web_Element"/>
+      <class name="Selenium.Selenium.ScreenShot"/>
+      <class name="Selenium.Selenium.File_Downlode_PopUp"/>
+      <class name="Selenium.Selenium.Robot_Class_Mouse_Keybord_Opration"/>
+      <class name="Selenium.Selenium.Child_Browser_PopUp"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
